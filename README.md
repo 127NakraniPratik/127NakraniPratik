@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pratik Nakrani
+- 👋 Hi, I’m Pratik
 - 👀 I’m interested in NodeJS
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
